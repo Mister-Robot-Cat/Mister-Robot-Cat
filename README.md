@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/Mister-Robot-Cat/Mister-Robot-Cat/main/github-header-banner.png" alt="Header Banner" width="100%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mister-Robot-Cat/Mister-Robot-Cat/main/github-header-banner.png" alt="Profile Photo" width="200" style="border-radius: 50%; border: 4px solid #FF4B4B;" />
+</div>
+
+<br/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Muzaffar+Nasirov+%F0%9F%91%8B;Back-end+Developer;Spring+Boot+Enthusiast;Programming+Instructor;Java+%7C+CSharp+%7C+Python" alt="Typing SVG" />
@@ -110,9 +118,6 @@ const misterRobotCat = {
 <a href="https://wakatime.com/@crymore1337">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=crymore1337&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=C9D1D9&layout=compact" alt="WakaTime Stats" />
 </a>
-
-### 🏅 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Mister-Robot-Cat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 
