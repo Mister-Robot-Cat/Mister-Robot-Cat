@@ -156,11 +156,11 @@ const misterRobotCat = {
 <a href="https://linkedin.com/in/muzaffar-nasirov">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/MisterRobotCat">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://instagram.com/mister.robot.cat">
+<a href="https://instagram.com/nasirov.06">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://reddit.com/user/Jasper_TVR">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
 
 ### 🐍 Follow My Coding Journey
