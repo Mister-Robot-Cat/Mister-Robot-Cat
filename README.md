@@ -4,10 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mister-Robot-Cat/Mister-Robot-Cat/main/github-header-banner.png" alt="Profile Photo" width="200" style="border-radius: 50%; border: 4px solid #FF4B4B;" />
-</div>
-
 <br/>
 
 <h1 align="center">
