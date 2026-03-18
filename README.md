@@ -128,12 +128,17 @@ const misterRobotCat = {
 - **DevOps Practices** (CI/CD, Kubernetes)
 - **Machine Learning** & AI Integration
 
-### 🚀 2024 Goals
-- 🎯 Contribute to **10+ open-source projects**
-- 🏆 Win a **major hackathon**
-- 📖 Publish **technical blog posts**
-- 👥 Build a **developer community**
-- 💼 Launch a **SaaS product**
+### 🚀 2026-2027 Goals
+- 🎯 Master **Microservices Architecture** & **System Design**
+- 🏆 Participate in **5+ major hackathons** and win at least 2
+- 📖 Publish **20+ technical blog posts** on Medium/Dev.to
+- 👥 Build a **developer community** of 1000+ members
+- 💼 Launch a **SaaS product** with 100+ paying customers
+- 🌍 Contribute to **10+ open-source projects**
+- 🎓 Complete **IT degree** with honors
+- ☁️ Get **AWS Solutions Architect** certification
+- 🤖 Learn **Machine Learning** & AI integration
+- 📚 Create **programming courses** for beginners
 
 </div>
 
