@@ -7,8 +7,8 @@
 <br/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Muzaffar+Nasirov+%F0%9F%91%8B;Back-end+Developer;Spring+Boot+Enthusiast;Programming+Instructor;Java+%7C+CSharp+%7C+Python" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Muzaffar+Nasirov+%F0%9F%91%8B;Back-end+Developer;Spring+Boot+Enthusiast;Programming+Instructor;Java+%7C+CSharp+%7C+Python" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -105,7 +105,7 @@ const misterRobotCat = {
 </a>
 
 ### 🔥 GitHub Streak & Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mister-Robot-Cat&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4B4B&fire=FF4B4B&currStreakNum=C9D1D9&currStreakLabel=FF4B4B&sideNums=C9D1D9&sideLabels=FF4B4B&dates=C9D1D9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Mister-Robot-Cat&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4B4B&fire=FF4B4B&currStreakNum=C9D1D9&currStreakLabel=FF4B4B&sideNums=C9D1D9&sideLabels=FF4B4B&dates=C9D1D9" alt="GitHub Streak" />
 
 ### 📈 GitHub Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mister-Robot-Cat&theme=tokyo-night&bg_color=0D1117&color=C9D1D9&line=FF4B4B&point=FF4B4B&area=true&hide_border=true&radius=8" alt="Activity Graph" />
