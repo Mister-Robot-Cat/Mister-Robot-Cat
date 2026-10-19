@@ -110,11 +110,6 @@ const misterRobotCat = {
 ### 📈 GitHub Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mister-Robot-Cat&theme=tokyo-night&bg_color=0D1117&color=C9D1D9&line=FF4B4B&point=FF4B4B&area=true&hide_border=true&radius=8" alt="Activity Graph" />
 
-### 🎯 WakaTime Coding Stats
-<a href="https://wakatime.com/@crymore1337">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=crymore1337&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=C9D1D9&layout=compact" alt="WakaTime Stats" />
-</a>
-
 </div>
 
 ---
@@ -161,11 +156,6 @@ const misterRobotCat = {
 </a>
 <a href="https://reddit.com/user/Jasper_TVR">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-</a>
-
-### 🐍 Follow My Coding Journey
-<a href="https://wakatime.com/@crymore1337">
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
 </a>
 
 </div>
